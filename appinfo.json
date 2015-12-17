@@ -10,6 +10,7 @@
         "media": [
             {
                 "file": "images/menu_icon.png",
+                "menuIcon": true,
                 "name": "IMAGE_MENU_ICON",
                 "type": "bitmap"
             },
@@ -30,7 +31,6 @@
             },
             {
                 "file": "images/hsgr.png",
-                "menuIcon": true,
                 "name": "IMAGES_HSGR_PNG",
                 "type": "bitmap"
             }
